@@ -1,0 +1,10 @@
+# PrimaReal
+
+> Nabídky nemovitostí kanceláře PrimaReal.
+
+- Web: https://www.primareal.cz/
+
+## Nabídky (3)
+- Prodej bytu 2+kk 42 m² — Rychnov u Jablonce nad Nisou, 2 790 000 Kč: prodej-bytu-2-kk-42-m2-1432150092/
+- Prodej chaty 366 m², pozemek 351 m² — Liberec XII-Staré Pavlovice, 1 499 000 Kč: prodej-chaty-366-m2-pozemek-351-m2-3038519372/
+- Prodej bytu 2+kk 56 m² — Liberec III-Jeřáb, 4 180 000 Kč: prodej-bytu-2-kk-56-m2-3863318604/
